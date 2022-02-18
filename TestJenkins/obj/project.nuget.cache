@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRSTlIuRUcvyFaRjbUJmsKNsYWxzXDc3YxIz1QJdZ6Y0RtKRujue/7xmL9t5sfmnDL+W1ka+iZOh0AS/ejCLbw==",
+  "dgSpecHash": "OfTfnu5H7Z363mDSEZErQsVeAqTsYeKbgkggdWArh4Cg7+1pE0V7N2U/PRBnJqNvlUlegwmcRFaVCVqY6skhFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
+  "projectFilePath": "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

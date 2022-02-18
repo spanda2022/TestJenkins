@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\TestJenkins.csproj": {}
+    "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\TestJenkins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\TestJenkins.csproj": {
+    "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\TestJenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
+        "projectUniqueName": "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
         "projectName": "TestJenkins",
-        "projectPath": "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
+        "projectPath": "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\TestJenkins.csproj",
         "packagesPath": "C:\\Users\\SPanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SPanda\\source\\repos\\TestJenkins\\TestJenkins\\obj\\",
+        "outputPath": "C:\\Users\\SPanda\\TestJenkins\\TestJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
