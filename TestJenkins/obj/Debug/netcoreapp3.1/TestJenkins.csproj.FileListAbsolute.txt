@@ -1,0 +1,13 @@
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.exe
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.deps.json
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.runtimeconfig.json
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.runtimeconfig.dev.json
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.dll
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\bin\Debug\netcoreapp3.1\TestJenkins.pdb
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.csprojAssemblyReference.cache
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.AssemblyInfoInputs.cache
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.AssemblyInfo.cs
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.csproj.CoreCompileInputs.cache
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.dll
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.pdb
+C:\Users\SPanda\source\repos\TestJenkins\TestJenkins\obj\Debug\netcoreapp3.1\TestJenkins.genruntimeconfig.cache
